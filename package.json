@@ -14,8 +14,11 @@
   ],
   "author": "Andre Araujo",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "electron-store": "^4.0.0"
+  },
   "devDependencies": {
-    "electron": "^5.0.8"
+    "electron": "^5.0.8",
+    "electron-reloader": "^0.3.0"
   }
 }
